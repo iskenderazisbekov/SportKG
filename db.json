@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "title": "Nike Air Max Plus",
+      "image": "https://images.nike.com/is/image/DotCom/DH4776_100?$NIKE_PWP_GRAY$&wid=420&hei=420",
+      "price": "154.95",
+      "type": "Nike",
+      "description": "Позвольте себе стать лучше в Nike Air Max Plus с технологией Tuned Air, которая обеспечивает превосходную стабильность и невероятную амортизацию. Благодаря волнистым линиям дизайна OG, акцентам из ТПУ и воздушной сетке на верхней части, они прославляют дерзкий стиль.",
+      "id": 1
+    },
+    {
+      "title": "Nike Air Force 1",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e07c39a1-1acc-4563-9665-577213f4d5db/air-force-1-older-shoes-8n7cGs.png",
+      "price": "69.95",
+      "type": "Nike",
+      "description": "Наш культовый логотип, ставший основным продуктом с момента нашего создания в 1972 году, делает заявление об этом Air Force 1 и дает крутой новый взгляд на икону баскетбола 80-х.",
+      "id": 3
+    },
+    {
+      "title": "Кроссовки мужские Adidas NITROCHARGE",
+      "image": "https://cdn1.ozone.ru/s3/multimedia-l/6081004485.jpg",
+      "price": "75",
+      "type": "Adidas",
+      "description": "КРОССОВКИ ADIDAS, ВДОХНОВЛЕННЫЕ БЕГОМ. Ты смел и бесстрашен. Дерзай в этих кроссовках adidas с яркими акцентами. Мягкая подошва из пенного материала создает ощущение, словно ты идешь по облакам. Если бы такое было возможно.  Модель выполнена из переработанных материалов в рамках наших обязательств по сокращению пластиковых отходов. 20% элементов верха минимум на 50% состоят из переработанных материалов.",
+      "id": 4
+    },
+    {
+      "title": "КЕДЫ CAVEN TRAINERS",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/380810/07/sv01/fnd/RUS/w/1000/h/1000/fmt/png",
+      "price": "48",
+      "type": "Puma",
+      "description": "Кеды Caven Trainers представляют собой классический баскетбольный силуэт образца восьмидесятых, дополненный мягкими кожаными деталями и многослойной промежуточной подошвой. Стелька SoftFoam обеспечивает комфорт в течение дня. Вы чувствуете себя превосходно и выглядите так же: эта обувь гарантированно попадет в ваш список обуви на все времена. Подходят для мужчин и женщин.",
+      "id": 5
+    },
+    {
+      "title": "Reebok Women's Princess Lite Classic Shoe",
+      "image": "https://media.kohlsimg.com/is/image/kohls/2656809_Black?wid=600&hei=600&op_sharpen=1",
+      "price": "44.90",
+      "type": "Reebok",
+      "description": "ПРОЧНЫЙ И ЛЕГКИЙ МАТЕРИАЛ: эти классические кроссовки имеют синтетический верх, который обеспечивает поддержку и комфорт в классическом стиле. ЭФФЕКТИВНАЯ ПОДДЕРЖКА НОГИ: эти стильные кроссовки с промежуточной подошвой из ЭВА обеспечивают поддержку ног, которая выдерживает многие прогулки и пробежки. ОСТАВАЙТЕСЬ ПРОХЛАДНОЙ И СУХОЙ: эта обувь имеет мягкую махровую подкладку, которая впитывает влагу, сохраняя ваши ноги прохладными и сухими. УДОБНАЯ И ПРОЧНАЯ ДИЗАЙН.",
+      "id": 6
+    },
+    {
+      "title": "Reebok Women's Classic Nylon SP Sneaker",
+      "image": "https://assets.reebok.com/images/w_600,f_auto,q_auto/2967400188394fab8b4ea8c800451a51_9366/Classic_Nylon_Women's_Shoes_Multi_CN3630.jpg",
+      "price": "39",
+      "type": "Reebok",
+      "description": "Подходит для: спортивного отдыха, традиционного стиля и повседневной одежды. Материалы: полуэластичный нейлон, язычок из ноэпрена и замшевая накладка. Съемная стелька из ЭВА вмещает ортопедические стельки. Низкий дизайн для мобильности и свободы движений Прочная износостойкая резиновая подошва",
+      "id": 7
+    },
+    {
+      "title": "КРОССОВКИ FILA ",
+      "image": "https://fila.co.za/wp-content/uploads/2020/02/DSC05889-e1603119303972.jpg",
+      "price": "45",
+      "type": "FILA",
+      "description": "КРОССОВКИ FILA ЖЕНСКИЕ SANDBLAST LOW PU PU – БЕЛЫЙ / FILA NAVY / FILA RED",
+      "id": 8
+    },
+    {
+      "title": "КРОССОВКИ FILA",
+      "image": "https://fila.co.za/wp-content/uploads/2021/02/DSC04747-e1615379336912.jpg",
+      "price": "35",
+      "type": "FILA",
+      "description": "КРОССОВКИ FILA ЖЕНСКИЕ SANDBLAST LOW PU – MISTY ROSE",
+      "id": 9
+    },
+    {
+      "title": "КРОССОВКИ FILA",
+      "image": "https://fila.co.za/wp-content/uploads/2019/07/DSC07373-scaled-e1637747898456.jpg",
+      "price": "46.9",
+      "type": "FILA",
+      "description": "Удобные, прочные и великолепно выглядящие, эти спортивные кроссовки для женщин и мужчин представляют собой новый взгляд на старый фаворит.",
+      "id": 10
+    },
+    {
+      "title": "Беговые кроссовки Asics Gel-Sonoma 6 G-Tx Black/Metropolis",
+      "image": "https://www.kant.ru/upload/iblock/770/770e3c3c8b9a5c80f2f83e68169fd3f2.jpg",
+      "price": "103",
+      "type": "Asics",
+      "description": "Беговые кроссовки Asics Gel-Sonoma 6 GTX созданы для активного отдыха, для бега по пересеченной местности, легких походов и подойдут для спортсменов с нейтральной пронацией. Модернизированная версия укомплектована верхом GORE-TEX ™, чтобы ноги оставались сухими во влажных условиях.",
+      "id": 11
+    },
+    {
+      "title": " Беговые кроссовки Asics Gt-1000 11 Ps Graphite Grey/Champagne",
+      "image": "https://www.kant.ru/upload/resize_cache/iblock/f18/555_455_1/f1824afd15fc475afe3f494e3df38682.jpg",
+      "price": "86",
+      "type": "Asics",
+      "description": "Беговые кроссовки Asics Gt-1000 11 созданы для детей и их повседневных занятий как на школьном дворе, так и на детской площадке. Обновленная модель получила новый конструктивный элемент Litetruss, объединяющий функции элементов Tusstic и Duomax в одном. Это позволило снизить вес кроссовок, поскольку теперь блокировка аксиально-торсионных деформаций в зоне свода стопы и поддержка для гиперпронаторов будут выполняться одним элементом.",
+      "id": 12
+    },
+    {
+      "title": "Беговые кроссовки Asics Gel-Noosa Tri 13 Gs Pink Glo/Sour Yuzu",
+      "image": "https://www.kant.ru/upload/resize_cache/iblock/b86/555_455_1/b86dd83c87cfa26c187993700f02dc1d.jpg",
+      "price": "87",
+      "type": "Asics",
+      "description": "Беговые кроссовки Asics Gel-Noosa Tri 13 представлены в ультрамодном и ярком дизайне. Обновленная версия стала легче, получила новый функциональный верх и улучшенную амортизацию. Полноразмерная пена FlyteFoam обеспечивает снижение энергозатрат при беге, эффективное рассеивание ударной нагрузки, улучшенную амортизацию, максимальный комфорт и легкость при беге на длинные дистанции",
+      "id": 13
+    },
+    {
+      "title": "DAILY 3.0 SHOES",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/e12512f625984ae9b449aba400aaa4cc_9366/Daily_3.0_Shoes_Grey_FW3270.jpg",
+      "price": "42",
+      "type": "Adidas",
+      "description": "Свежий взгляд на классику, эта обувь adidas сочетает в себе элементы наследия, современные материалы и дизайн. Ваша прогулка по кампусу никогда не выглядела и не ощущалась так хорошо.",
+      "id": 14
+    },
+    {
+      "title": "SUPERSTAR SHOES",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/2a82e3f3f51b46ed99b3adfb0007b24b_9366/Superstar_Shoes_Black_GW1627.jpg",
+      "price": "100",
+      "type": "Adidas",
+      "description": "Вот уже 50 лет люди ломают барьеры и меняют правила игры в своих туфлях с носками-ракушками. Зашнуруйте эти туфли adidas Superstar не только в знак уважения к наследию, но и в знак присоединения к нему.",
+      "id": 15
+    },
+    {
+      "title": "STAN SMITH BOBA FETT SHOES",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/90a73c175c4e4c219976ad7400e65dc1_9366/Stan_Smith_Boba_Fett_Shoes_Blue_GX6777_01_standard.jpg",
+      "price": "90",
+      "type": "Adidas",
+      "description": "Этот выпуск теперь доступен только для членов adiClub. Присоединяйтесь к клубу бесплатно и откройте для себя лучшее от adidas.",
+      "id": 16
+    },
+    {
+      "title": "LI-NING All City Wade",
+      "image": "https://m.media-amazon.com/images/I/61JfBnF467L._AC_UL1000_.jpg",
+      "price": "75",
+      "type": "LI-NING",
+      "description": "LI-NING All City Wade Мужская амортизирующая баскетбольная обувь Подкладка Противоскользящие профессиональные амортизирующие кроссовки ",
+      "id": 17
+    },
+    {
+      "title": "КРОССОВКИ LI-NING ARHQ137-1",
+      "image": "https://softech.kg/image/catalog/Products/Odejda/Obuv/Li-ning/%20ARHQ137-1/arhq137-1-d_35645c932e0444369d5228ee3958f532_master.jpg",
+      "price": "56",
+      "type": "LI-NING",
+      "description": "Производитель: Li-Ning Модель: ARHQ137-1 Артикул: 96052 Наличие: Уточняйте цену и наличие",
+      "id": 18
+    },
+    {
+      "title": "LI-NING",
+      "image": "https://ae04.alicdn.com/kf/H22527eab29a44d96abc952aa3287e3a34/Li-Ning-2020.jpg",
+      "price": "112",
+      "type": "LI-NING",
+      "description": "Li-Ning, новинка 2020, профессиональная Мужская обувь для бадминтона, спортивная обувь, противоскользящие кроссовки с подкладкой, обувь для бадминтона AYTQ025",
+      "id": 19
+    },
+    {
+      "title": "КРОССОВКИ MIRAGE TECH TRAINERS",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/381118/04/fnd/RUS/w/1000/h/1000/fmt/png",
+      "price": "44.90",
+      "type": "Puma",
+      "description": "Футуристические, супермодные кроссовки Mirage Tech Trainers – ваш новый фаворит. На переосмысление знакомого силуэта нас вдохновили иллюзии и грезы, баланс между настоящим и тем, что говорят чувства. Смелые сочетания и комбинация накладок создают потрясающий образ. Перенеситесь в новую реальность. Подходят для мужчин и женщин.",
+      "id": 20
+    },
+    {
+      "title": "КЕДЫ PUMA X BLACK FIVES SUEDE MEN'S TRAINERS",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/382334/01/sv01/fnd/RUS/w/1000/h/1000/fmt/png",
+      "price": "62",
+      "type": "Puma",
+      "description": "Бренд PUMA объединился с некоммерческим фондом Black Fives, чтобы создать коллекцию в честь первых профессиональных баскетбольных команд, состоящих из афроамериканцев. В начале 20 века они стали первопроходцами и проложили путь сегодняшним «звездам» баскетбола.",
+      "id": 21
+    },
+    {
+      "title": "КРОССОВКИ PUMA RS-X REINVENT WN'S",
+      "image": "https://campioshop.ru/upload/resize_cache/iblock/7c9/530_530_1/7c9c71d1c61956fad70fe9e900cc5ff4.jpg",
+      "price": "99",
+      "type": "Puma",
+      "description": "Кроссовки Puma RS-X стали одним из вариантов возрождения революционной коллекции бренда, впервые представленной в 1986 году. Наряду с моделями RS-0 и RS-2K линейка RS-X покоряет поклонников исключительным комфортом и актуальной интерпретацией силуэта, ставшего практически культовым. Ключевая особенность – знаменитая технология амортизации RS (Running System). ",
+      "id": 22
+    },
+    {
+      "title": "ADIDAS YEEZY 700 V3 ALVAN ЧЕРНЫЕ",
+      "image": "https://www.thenextsole.com/storage/images/GX6144.png",
+      "price": "72.50",
+      "type": "Adidas",
+      "description": "Yeezy набирает обороты, и как следствие новая модель кроссовок Adidas Yeezy 700 v3. Заглядывая в новую эру в конце 2019 года, Adidas Yeezy продолжает играть силуэтами. В итоге, встречаем самую трансформирующую Yeezy 700 версию, которая получила название v3. Полностью отличная от предшественников модель, имеет твердые накладки Primeknit по всей базе.",
+      "id": 23
+    },
+    {
+      "title": "NMD_V3 SHOES",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d6e369df80d3471dae5dadee01486b11_9366/NMD_V3_Shoes_Beige_GX5785_01_standard.jpg",
+      "price": "160",
+      "type": "Adidas",
+      "description": "Эти кроссовки adidas NMD_V3 облегчат вам жизнь. Верх из сверхэластичного трикотажа удобно облегает стопу и поддерживает ваш шаг. Амортизация Boost возвращает энергию, которую вы выбрасываете, и заряжает каждый шаг этой плюшевостью, хорошим чувством, которое поддерживает вас в силе.",
+      "id": 24
+    },
+    {
+      "title": "ULTRABOOST 5.0 DNA W",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ff35f343bb484f67ad23ae02003e2469_9366/ULTRABOOST_5.0_DNA_W_Blue_GZ0429_01_standard.jpg",
+      "price": 190,
+      "type": "Adidas",
+      "description": "Цвет продукта: Legend Ink / Core Black / Acid Red",
+      "id": 25
+    }
+  ]
+}
