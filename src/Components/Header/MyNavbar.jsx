@@ -310,52 +310,38 @@ export default function MyNavbar() {
         <img style={{height: "470px" }}
                       className="d-block w-100"
                       src={ image1Img }
-
                     />
-          {/* <Carousel.Caption>
-            <h3>AirPods Pro</h3>
-            <p>Активное шумоподавление для иммерсивного звука. <br/> Комфорт на весь день.</p>
-          </Carousel.Caption> */}
+         
+
         </Carousel.Item>
+        
         <Carousel.Item>
         <img style={{height: "470px" }}
                       className="d-block w-100"
                       src={ image2Img }
                     />
-          {/* <Carousel.Caption>
-            <h3>Apple Watch Series 7</h3>
-            <p>Встречайте Apple Watch с самым большим дисплеем.</p>
-          </Carousel.Caption> */}
+          
         </Carousel.Item>
         <Carousel.Item>
         <img style={{height: "470px" }}
                       className="d-block w-100"
                       src={ image3Img }
                     />
-          {/* <Carousel.Caption>
-            <h3>MacBook Pro</h3>
-            <p>Наш самый мощный ноутбук. Быстрый чип из линейки M1, потрясающая графика и великолепный дисплей Retina. <br/> Теперь и с диагональю 14 дюймов.</p>
-          </Carousel.Caption> */}
+         
         </Carousel.Item>
         <Carousel.Item>
         <img style={{height: "470px" }}
                       className="d-block w-100"
                       src={ image4Img }
                     />
-          {/* <Carousel.Caption style={{color: "black"}} >
-            <h3>iPhone 13</h3>
-            <p>Наша самая совершенная система двух камер.Особый взгляд на прочность дисплея. <br/> Чип, с которым всё супербыстро.Аккумулятор держится заметно дольше.</p>
-          </Carousel.Caption> */}
+        
         </Carousel.Item>
         <Carousel.Item>
         <img style={{height: "470px" }}
                       className="d-block w-100"
                       src={ image5Img }
                     />
-          {/* <Carousel.Caption>
-            <h3>iPad Pro</h3>
-            <p>С суперсилой чипа Apple M1.XDR. <br/> Дисплей Liquid Retina на экстремальной высоте.</p>
-          </Carousel.Caption> */}
+      
         </Carousel.Item>
         <Carousel.Item>
         <img style={{height: "470px" }}
